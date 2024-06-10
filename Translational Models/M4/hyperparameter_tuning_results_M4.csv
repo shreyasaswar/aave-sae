@@ -1,0 +1,2 @@
+patience,units,learning_rate,activation,dropout,regularizer,optimizer,embedding_dim,stopped_epoch,bleu_score
+10,128,0.001,relu,0.5,,adam,256,16,0.1738015394879632

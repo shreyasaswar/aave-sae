@@ -1,0 +1,3 @@
+patience,units,learning_rate,activation,dropout,regularizer,optimizer,embedding_dim,stopped_epoch,bleu_score
+8,128,0.001,relu,0.5,,adam,256,22,0.29634872111921445
+8,128,0.001,tanh,0.5,,adam,256,20,0.3007771909220886
